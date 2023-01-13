@@ -1,12 +1,11 @@
 # Missionaries-and-Cannibals
 
-˚ ༘✶ ⋆｡˚ ⁀➷ ˚ ༘✶ ⋆｡˚ ⁀➷ ˚ ༘✶ ⋆｡˚ ⁀➷ ˚ ༘✶ ⋆｡˚ ⁀➷
+˚ ༘✶ ⋆｡˚ ⁀➷ ˚ ༘✶ ⋆｡˚ ⁀➷ 
 
 Coding in Visual Studio Code with Python language
 
-┌───── •✧✧• ─────┐
     -SOLUTION- 
-└───── •✧✧• ─────┘
+
 
 State Problem
 
